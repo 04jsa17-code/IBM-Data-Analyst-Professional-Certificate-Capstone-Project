@@ -69,17 +69,6 @@ This is the capstone project for the **IBM Data Analyst Professional Certificate
 - Job satisfaction shows weak correlation with years of experience
 - Remote work preferences differ significantly by region and employment type
 
-## Files
-
-- `DataCollectionAPI.ipynb` — API data collection notebook
-- `WebScraping.ipynb` — Web scraping notebook
-- `DataWrangling.ipynb` — Data wrangling notebook
-- `EDA.ipynb` — Exploratory data analysis notebook
-- `Visualization.ipynb` — Data visualization notebook
-- `job-postings.xlsx` — Job postings data by city and technology
-- `popular-languages.csv` — Programming language salary data
-- `survey_cleaned.csv` — Cleaned Stack Overflow survey dataset
-
 ## About
 
 End-to-end data analysis capstone using Stack Overflow survey data — data collection, wrangling, EDA, visualization, and interactive dashboards — Final project for the IBM Data Analyst Professional Certificate
