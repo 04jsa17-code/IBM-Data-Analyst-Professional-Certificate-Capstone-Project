@@ -71,7 +71,9 @@ This is the capstone project for the **IBM Data Analyst Professional Certificate
 
 ## About
 
-End-to-end data analysis capstone using Stack Overflow survey data — data collection, wrangling, EDA, visualization, and interactive dashboards — Final project for the IBM Data Analyst Professional Certificate
+End-to-end data analysis capstone using Stack Overflow survey data — data collection, wrangling, EDA, visualization, and interactive dashboards — Final project for the IBM Data Analyst Professional Certificate. 
+
+The slideshow presentation is the "Data Analyst Capstone Project Report" file. Feel free to download it to your computer to view!
 
 ---
 
